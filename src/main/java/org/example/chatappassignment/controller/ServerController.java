@@ -143,4 +143,8 @@ public class ServerController {
     void txtMessageOnAction(ActionEvent event) {
         btnSendOnAction(event);
     }
+
+    public void addClient(ActionEvent actionEvent) {
+
+    }
 }
